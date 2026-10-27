@@ -11,7 +11,7 @@
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-coming%20soon-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 ![Magento 2](https://img.shields.io/badge/Magento%202-coming%20soon-EE672F?style=flat-square&logo=magento&logoColor=white)
 
-[English](#-one-brand-one-plugin) · [Français](#-en-français) · [Documentation](https://docs.merchant-services.bnparibas)
+[English](#-one-brand-one-plugin) · [Français](#-en-français) · [Documentation](https://docs.merchant-services.bnpparibas)
 
 </div>
 
@@ -51,7 +51,7 @@ The **All-in-One plugin** brings that promise to your back-office. Instead of on
 
 ## 📚 Developer resources
 
-👉 **[docs.merchant-services.bnparibas](https://docs.merchant-services.bnparibas)** — installation guides, configuration and API documentation.
+👉 **[docs.merchant-services.bnparibas](https://docs.merchant-services.bnpparibas)** — installation guides, configuration and API documentation.
 
 ## 🛟 Support
 
