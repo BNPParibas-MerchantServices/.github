@@ -6,9 +6,9 @@
 
 **Payments, split payments and consumer financing from BNP Paribas — in one plugin for PrestaShop, WooCommerce and Magento 2.**
 
-![PrestaShop](https://img.shields.io/badge/PrestaShop-available-00915A?style=flat-square&logo=prestashop&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-coming%20soon-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![Magento 2](https://img.shields.io/badge/Magento%202-coming%20soon-EE672F?style=flat-square&logo=magento&logoColor=white)
+[![PrestaShop](https://img.shields.io/badge/PrestaShop-available-00915A?style=flat-square&logo=prestashop&logoColor=white)](https://github.com/BNPParibas-MerchantServices/MerchantServices-Prestashop-plugin)
+[![WooCommerce](https://img.shields.io/badge/WooCommerce-coming%20soon-96588A?style=flat-square&logo=woocommerce&logoColor=white)](https://github.com/BNPParibas-MerchantServices/MerchantServices-WooCommerce-plugin)
+[![Magento 2](https://img.shields.io/badge/Magento%202-coming%20soon-EE672F?style=flat-square&logo=magento&logoColor=white)](https://github.com/BNPParibas-MerchantServices/MerchantServices-Magento2-plugin)
 
 [English](#-one-brand-one-plugin) · [Français](#-en-français) · [Documentation](https://docs.merchant-services.bnpparibas)
 
