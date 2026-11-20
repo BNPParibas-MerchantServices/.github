@@ -58,7 +58,7 @@ The **All-in-One plugin** brings that promise to your back-office. Instead of on
 |---|---|
 | 💳 Axepta BNP Paribas — France | 📧 [assistance.ecommerce@bnpparibas.com](mailto:assistance.ecommerce@bnpparibas.com) |
 | 💳 Axepta BNP Paribas — Benelux | 📧 [support@axepta.be](mailto:support@axepta.be) |
-| 🗓️ FLOA Pay | Coming soon |
+| 🗓️ FLOA Pay | 📧 [support-it-floapay@floa.com](mailto:support-it-floapay@floa.com) · 🌐 [Support portal](https://cb4x.atlassian.net/servicedesk/customer/portals) |
 
 ---
 
@@ -106,4 +106,4 @@ Le **plugin All-in-One** décline cette promesse dans votre back-office. Au lieu
 |---|---|
 | 💳 Axepta BNP Paribas — France | 📧 [assistance.ecommerce@bnpparibas.com](mailto:assistance.ecommerce@bnpparibas.com) |
 | 💳 Axepta BNP Paribas — Benelux | 📧 [support@axepta.be](mailto:support@axepta.be) |
-| 🗓️ FLOA Pay | Bientôt disponible |
+| 🗓️ FLOA Pay | 📧 [support-it-floapay@floa.com](mailto:support-it-floapay@floa.com) · 🌐 [Portail d'assistance](https://cb4x.atlassian.net/servicedesk/customer/portals) |
