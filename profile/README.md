@@ -1,6 +1,9 @@
 <div align="center">
 
-# BNP Paribas Merchant Services
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BNPParibas-MerchantServices/.github/main/assets/ms-logo-dark.svg">
+  <img alt="BNP Paribas Merchant Services" src="https://raw.githubusercontent.com/BNPParibas-MerchantServices/.github/main/assets/ms-logo-light.svg" width="440">
+</picture>
 
 ### The All-in-One payment plugin for your e-commerce site
 
