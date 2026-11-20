@@ -1,9 +1,7 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BNPParibas-MerchantServices/.github/main/assets/ms-logo-dark.svg">
-  <img alt="BNP Paribas Merchant Services" src="https://raw.githubusercontent.com/BNPParibas-MerchantServices/.github/main/assets/ms-logo-light.svg" width="440">
-</picture>
+<img alt="BNP Paribas Merchant Services" src="https://raw.githubusercontent.com/BNPParibas-MerchantServices/.github/main/assets/ms-logo-light.svg#gh-light-mode-only" width="440">
+<img alt="BNP Paribas Merchant Services" src="https://raw.githubusercontent.com/BNPParibas-MerchantServices/.github/main/assets/ms-logo-dark.svg#gh-dark-mode-only" width="440">
 
 ### The All-in-One payment plugin for your e-commerce site
 
