@@ -6,8 +6,7 @@
 
 **Payments, split payments and consumer financing from BNP Paribas — in one plugin for PrestaShop, WooCommerce and Magento 2.**
 
-![Status](https://img.shields.io/badge/status-coming%20soon-F5A623?style=flat-square)
-![PrestaShop](https://img.shields.io/badge/PrestaShop-coming%20soon-DF0067?style=flat-square&logo=prestashop&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-available-00915A?style=flat-square&logo=prestashop&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-coming%20soon-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 ![Magento 2](https://img.shields.io/badge/Magento%202-coming%20soon-EE672F?style=flat-square&logo=magento&logoColor=white)
 
@@ -43,44 +42,68 @@ The **All-in-One plugin** brings that promise to your back-office. Instead of on
 
 | Repository | Platform | Status |
 |---|---|---|
-| [MerchantServices-Prestashop-plugin](https://github.com/Merchant-services-BNP-Paribas/MerchantServices-Prestashop-plugin) | PrestaShop | 🟡 Coming soon |
-| [MerchantServices-WooCommerce-plugin](https://github.com/Merchant-services-BNP-Paribas/MerchantServices-WooCommerce-plugin) | WooCommerce / WordPress | 🟡 Coming soon |
-| [MerchantServices-Magento2-plugin](https://github.com/Merchant-services-BNP-Paribas/MerchantServices-Magento2-plugin) | Magento 2 | 🟡 Coming soon |
+| [MerchantServices-Prestashop-plugin](https://github.com/BNPParibas-MerchantServices/MerchantServices-Prestashop-plugin) | PrestaShop | ✅ Available — [download](https://github.com/BNPParibas-MerchantServices/MerchantServices-Prestashop-plugin/releases/latest) |
+| [MerchantServices-WooCommerce-plugin](https://github.com/BNPParibas-MerchantServices/MerchantServices-WooCommerce-plugin) | WooCommerce / WordPress | 🟡 Coming soon |
+| [MerchantServices-Magento2-plugin](https://github.com/BNPParibas-MerchantServices/MerchantServices-Magento2-plugin) | Magento 2 | 🟡 Coming soon |
 
-⭐ Star or watch a repository to be notified of its first release.
+⭐ Star or watch a repository to be notified of new releases.
 
 ## 📚 Developer resources
 
-👉 **[docs.merchant-services.bnparibas](https://docs.merchant-services.bnpparibas)** — installation guides, configuration and API documentation.
+👉 **[docs.merchant-services.bnpparibas](https://docs.merchant-services.bnpparibas)** — installation guides, configuration and API documentation.
 
 ## 🛟 Support
 
-Support contact details will be published with the first release.
+| Solution | Contact |
+|---|---|
+| 💳 Axepta BNP Paribas — France | 📧 [assistance.ecommerce@bnpparibas.com](mailto:assistance.ecommerce@bnpparibas.com) |
+| 💳 Axepta BNP Paribas — Benelux | 📧 [support@axepta.be](mailto:support@axepta.be) |
+| 🗓️ FLOA Pay | Coming soon |
 
 ---
 
 ## 🇫🇷 En français
 
-### Le plugin de paiement All-in-One pour votre site e-commerce
+### 🤝 Une marque, un plugin
 
 **BNP Paribas Merchant Services** réunit les expertises du Groupe BNP Paribas au service des marchands (paiement, financement, services) pour offrir aux commerçants et e-commerçants une offre lisible, cohérente et intégrée.
 
-Le **plugin All-in-One** décline cette promesse dans votre back-office : **un seul plugin par CMS** (PrestaShop, WooCommerce, Magento 2), dans lequel vous activez les solutions dont vous avez besoin.
+Le **plugin All-in-One** décline cette promesse dans votre back-office. Au lieu d'un plugin par prestataire, vous installez **un seul plugin par CMS** et activez les solutions dont vous avez besoin :
 
-- 💳 **Axepta BNP Paribas** : paiement par carte et portefeuilles (CB, Visa, Mastercard, Amex, Apple Pay, Google Pay, PayPal), avec 3-D Secure.
-- 🗓️ **FLOA Pay** : paiement fractionné et différé (Pay Later, 3x, 4x, 10x en France).
-- 🏦 **BNP Paribas Personal Finance** : financement des achats de vos clients.
+| | Solution | Ce que vos clients obtiennent |
+|---|---|---|
+| 💳 | **Axepta BNP Paribas** | Paiement par carte et portefeuilles : CB, Visa, Mastercard, Amex, Apple Pay, Google Pay, PayPal, avec 3-D Secure |
+| 🗓️ | **FLOA Pay** | Paiement fractionné et différé : Pay Later, 3x, 4x, 10x (France) |
+| 🏦 | **BNP Paribas Personal Finance** | Financement des achats importants |
 
-Le plugin offre :
+### Pourquoi All-in-One
 
-- une seule installation et un seul écran de configuration ;
-- un parcours de paiement fluide, au service de la conversion et du panier moyen ;
-- les remboursements et annulations depuis les écrans natifs du CMS ;
-- la capture différée et les abonnements par carte enregistrée ;
-- la simulation d'échéancier ;
-- des statuts de commande validés côté serveur ;
-- des journaux et un formulaire d'assistance intégré.
+- **Une installation, un écran de configuration** : chaque solution s'active indépendamment.
+- **Un parcours de paiement plus fluide** : la bonne option de paiement pour chaque panier, au service de la conversion et du panier moyen.
+- **Les écrans natifs du back-office** : remboursements et annulations depuis les écrans de votre CMS.
+- **Capture différée et abonnements** par carte enregistrée.
+- **Simulation d'échéancier** sur les pages produit et panier.
+- **Statuts de commande validés côté serveur** : une commande ne change de statut que sur une notification de paiement vérifiée.
+- **Journaux et formulaire d'assistance intégré** : tout ce dont le support a besoin, au même endroit.
 
-📚 Documentation : **[docs.merchant-services.bnparibas](https://docs.merchant-services.bnparibas)**
+### 📦 Plugins
 
-Les plugins arrivent bientôt. Suivez les dépôts ci-dessus pour être prévenu de la première version.
+| Dépôt | Plateforme | Statut |
+|---|---|---|
+| [MerchantServices-Prestashop-plugin](https://github.com/BNPParibas-MerchantServices/MerchantServices-Prestashop-plugin) | PrestaShop | ✅ Disponible — [télécharger](https://github.com/BNPParibas-MerchantServices/MerchantServices-Prestashop-plugin/releases/latest) |
+| [MerchantServices-WooCommerce-plugin](https://github.com/BNPParibas-MerchantServices/MerchantServices-WooCommerce-plugin) | WooCommerce / WordPress | 🟡 Bientôt disponible |
+| [MerchantServices-Magento2-plugin](https://github.com/BNPParibas-MerchantServices/MerchantServices-Magento2-plugin) | Magento 2 | 🟡 Bientôt disponible |
+
+⭐ Ajoutez une étoile ou suivez un dépôt pour être prévenu des nouvelles versions.
+
+### 📚 Ressources développeurs
+
+👉 **[docs.merchant-services.bnpparibas](https://docs.merchant-services.bnpparibas)** : guides d'installation, configuration et documentation API.
+
+### 🛟 Assistance
+
+| Solution | Contact |
+|---|---|
+| 💳 Axepta BNP Paribas — France | 📧 [assistance.ecommerce@bnpparibas.com](mailto:assistance.ecommerce@bnpparibas.com) |
+| 💳 Axepta BNP Paribas — Benelux | 📧 [support@axepta.be](mailto:support@axepta.be) |
+| 🗓️ FLOA Pay | Bientôt disponible |
